@@ -1,4 +1,5 @@
 // CÓDIGO FEITO POR IA.  APENAS PARA COMPARAÇÃO E INTERPRETAÇÃO DO MEU PRÓPRIO CÓDIGO
+// NÃO ESTÁ FUNCIONANDO NO MOMENTO
 
 
 var builder = WebApplication.CreateBuilder(args);
